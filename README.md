@@ -10,4 +10,3 @@
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=safderareepattamannil&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safderareepattamannil&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
