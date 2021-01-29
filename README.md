@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I'm a Software Engineer in Toronto**
+##### I'm a Software Engineer in Toronto
 ---
 
 - 🔭 I’m currently working as a **Software Engineer @ Slalom Consulting**
@@ -8,4 +8,6 @@
 - 📫 How to reach me:
   **[Email](mailto:safderareepattamannil@gmail.com)**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safderareepattamannil&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=safderareepattamannil&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safderareepattamannil&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
