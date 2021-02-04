@@ -3,8 +3,8 @@
 ---
 
 - 🔭 I’m currently working as a **Software Engineer @ Slalom Consulting**
-- 🌱 I’m currently learning **Kubernetes** and **React best practices**
-- 👯 I’m working on a self hosted Media Manager
+- 🌱 I’m currently learning **Kubernetes**.
+- 👯 I’m working on a self hosted Media Manager also trying to start a blog.
 - 📫 How to reach me:
   **[Email](mailto:safderareepattamannil@gmail.com)**
 
