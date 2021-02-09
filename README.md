@@ -7,7 +7,7 @@
 - 👯 I’m working on a self hosted Media Manage
 - 📫 How to reach me:
   **[Email](mailto:safderareepattamannil@gmail.com)**
-  **[Blog](https://www.colorcoder.dev/)
+  **[Blog](https://www.colorcoder.dev/)**
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=safderareepattamannil&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <br>
