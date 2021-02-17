@@ -1,13 +1,18 @@
 ### Hi there 👋
-##### I'm a Software Engineer in Toronto
 ---
+**I'm a Software Engineer in Toronto**, I love everything to do with full stack software engineering.
+I spend most of my time on backend distributed systems and building scalable APIs. 
 
 - 🔭 I’m currently working as a **Software Engineer @ Slalom Consulting**
 - 🌱 I’m currently learning **Kubernetes**.
+- 🤔 Next thing on my list to learn is **Redis**. 
 - 👯 Check out my **[Blog](https://www.colorcoder.dev/)**
-- 📫 How to reach me:
-  **[Email](mailto:safderareepattamannil@gmail.com)**
-  
+
+
+📫 How to reach me:
+- [Personal Blog](https://www.colorcoder.dev/)
+- [Email](mailto:safderareepattamannil@gmail.com)
+- [Medium](https://colorcoder.medium.com/)  
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=safderareepattamannil&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <br>
