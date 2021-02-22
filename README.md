@@ -13,6 +13,7 @@ I spend most of my time on backend distributed systems and building scalable API
 - [Personal Blog](https://www.colorcoder.dev/)
 - [Email](mailto:safderareepattamannil@gmail.com)
 - [Medium](https://colorcoder.medium.com/)  
+- [Twitter](https://twitter.com/colorcoder2)
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=safderareepattamannil&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <br>
