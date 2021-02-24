@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 **I'm a Software Engineer based out of Toronto**, I love everything to do with full stack software engineering.
-I spend most of my time on backend distributed systems and building scalable APIs. 
+I spend most of my time on building distributed systems with dev conferences playing in the background. 
 
 - 🔭 I’m currently working as a **Software Engineer @ Slalom Consulting**
 - 🌱 I’m currently learning **Kubernetes**.
