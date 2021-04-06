@@ -3,7 +3,7 @@
 **I'm a Software Engineer based out of Toronto**, I love everything to do with full stack software engineering.
 I spend most of my time on building distributed systems with dev conferences playing in the background. 
 
-- 🔭 I’m currently working as a **Software Engineer @ Bespoke Metrcics**
+- 🔭 I’m currently working as a **Software Engineer @ Bespoke Metrics**
 - 🌱 I’m currently learning **Kubernetes**.
 - 🤔 Next thing on my list to learn is **Redis**. 
 - 👯 Check out my **[Blog](https://www.colorcoder.dev/)**
